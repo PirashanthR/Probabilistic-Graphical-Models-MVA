@@ -3,7 +3,7 @@
 """
 Created on Wed Nov  1 14:08:52 2017
 
-@author: ratnamogan
+@author: Othmane SAYEM et Pirashanth RATNAMOGAN
 """
 
 import pandas as pd 
